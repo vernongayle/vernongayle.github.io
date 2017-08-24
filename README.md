@@ -1,5 +1,7 @@
 # vernongayle.github.io
 
+## Vernon Gayle ##
+
 I am Professor of Sociology and Social Statistics at the University of Edinburgh. 
 
 My main substantive research interests include social stratification, the sociology of youth and the sociology of education. 
