@@ -1,6 +1,6 @@
 # vernongayle.github.io
 
-https://github.com/vernongayle
+[https://github.com/vernongayle](https://github.com/vernongayle)
 
 ## Vernon Gayle ##
 
@@ -15,4 +15,4 @@ reproducibility, computational social research, and data science.
 I have written on topics as diverse as migration, subjective well being, populations, fertility and digital social research, and 
 I am interested in the sociology of sport.
 
-https://github.com/vernongayle
+[https://github.com/vernongayle](https://github.com/vernongayle)
