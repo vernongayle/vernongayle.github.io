@@ -1,5 +1,7 @@
 # vernongayle.github.io
 
+https://github.com/vernongayle
+
 ## Vernon Gayle ##
 
 I am Professor of Sociology and Social Statistics at the University of Edinburgh. 
@@ -13,3 +15,4 @@ reproducibility, computational social research, and data science.
 I have written on topics as diverse as migration, subjective well being, populations, fertility and digital social research, and 
 I am interested in the sociology of sport.
 
+https://github.com/vernongayle
